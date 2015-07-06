@@ -6,7 +6,7 @@ tags:
 	- private
 ---
 
-For my first post, to try out hexo, I'll succinctly show how to defing a private
+For my first post, to try out hexo, I'll succinctly show how to define a private
 member in a constructor function.
 
 In the sample code below, a consumer creates a new `C` and can only invoke `getCallCount()`
